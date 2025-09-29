@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides information on course topics, meeting
   times, requirements, grading, textbooks, and advice from the professor on picking
   a law course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
