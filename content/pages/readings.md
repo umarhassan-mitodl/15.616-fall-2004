@@ -320,7 +320,7 @@ Guest: Jorge Contreras, Hale & Dorr
 {{< tdopen >}}
 Bagley. Chapter 14 (section on "Trademarks" and "Domain Names"), pp. 525-534.  
   
-Not required reading - for your future reference only: Hale and Dorr LLP's "2003 Internet Alerts." Available at the Web site of [Hale and Dorr LLP](https://web.archive.org/web/20071027101237/https://www.wilmerhale.com/publications/whPubsDetail.aspx?publication=2144).
+Not required reading - for your future reference only: Hale and Dorr LLP's "2003 Internet Alerts." Available at the Web site of {{% resource_link "c5b99ad1-7373-465b-8e18-7198bca9570f" "Hale and Dorr LLP" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
